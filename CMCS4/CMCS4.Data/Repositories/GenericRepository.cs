@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;   
 using CMCS4.Data.Interfaces;
 
+//Nikolov, G. (2018) Generic Repository Pattern in C# with EF Core. Packt Publishing.
+
 namespace CMCS4.Data.Repositories
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class

@@ -5,6 +5,8 @@ using CMCS4.Domain.Enums;
 using CMCS4.Services.Interfaces;
 using Microsoft.AspNetCore.Http;
 
+//Fowler, M. (2003) Patterns of Enterprise Application Architecture. Boston: Addison-Wesley.
+
 namespace CMCS4.Services.Implementations
 {
     public class ClaimService : IClaimService

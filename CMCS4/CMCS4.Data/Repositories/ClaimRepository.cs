@@ -2,6 +2,8 @@
 using CMCS4.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
+//Seemann, M. (2019) Dependency Injection Principles, Practices, and Patterns. Pearson.
+
 namespace CMCS4.Data.Repositories
 {
     public class ClaimRepository : GenericRepository<Claim>, IClaimRepository

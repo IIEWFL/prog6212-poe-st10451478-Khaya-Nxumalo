@@ -1,5 +1,7 @@
 ﻿using CMCS4.Domain.Enums;
 
+//Microsoft (2023) EF Core Modeling: Entity Classes. Available at: https://learn.microsoft.com/ef/core/modeling/entity-types(Accessed: 21 November 2025).
+
 namespace CMCS4.Domain.Entities
 {
     public class Claim
