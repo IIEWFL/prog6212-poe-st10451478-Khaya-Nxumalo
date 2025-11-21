@@ -1,34 +1,32 @@
+using CMCS4.Data;
+using CMCS4.Data.Interfaces;
+using CMCS4.Data.Repositories;
+using CMCS4.Services.Implementations;
+using CMCS4.Services.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
-namespace CMCS4
+var builder = WebApplication.CreateBuilder(args);
+
+// Add DB
+builder.Services.AddDbContext<CMCS4DbContext>(options =>
 {
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 
-            // Add services to the container.
+// Repositories
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
-            builder.Services.AddControllers();
-            // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-            builder.Services.AddOpenApi();
+// Services
+builder.Services.AddScoped<IClaimService, ClaimService>();
 
-            var app = builder.Build();
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.MapOpenApi();
-            }
+var app = builder.Build();
 
-            app.UseHttpsRedirection();
+app.UseSwagger();
+app.UseSwaggerUI();
 
-            app.UseAuthorization();
-
-
-            app.MapControllers();
-
-            app.Run();
-        }
-    }
-}
+app.MapControllers();
+app.Run();

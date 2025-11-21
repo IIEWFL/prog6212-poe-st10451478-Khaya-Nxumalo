@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7CB44820-F384-9743-53EF-C1DA9F093D2A}|CMCS4.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB44820-F384-9743-53EF-C1DA9F093D2A}|CMCS4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E0FCF0E-60B8-E8D5-DD02-84F47FDD29A7}|CMCS4.API\\CMCS4.API.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.api\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E0FCF0E-60B8-E8D5-DD02-84F47FDD29A7}|CMCS4.API\\CMCS4.API.csproj|solutionrelative:cmcs4.api\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,6 +79,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:26:37.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ClaimController.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.API\\Controllers\\ClaimController.cs",
               "RelativeDocumentMoniker": "CMCS4.API\\Controllers\\ClaimController.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClaimService.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Implementations\\ClaimService.cs",
               "RelativeDocumentMoniker": "CMCS4.Services\\Implementations\\ClaimService.cs",
@@ -95,12 +112,11 @@
               "RelativeToolTip": "CMCS4.Services\\Implementations\\ClaimService.cs",
               "ViewState": "AgIAAAMAAAAAmZmZmRkWwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:59:33.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T11:59:33.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IClaimService.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Interfaces\\IClaimService.cs",
               "RelativeDocumentMoniker": "CMCS4.Services\\Interfaces\\IClaimService.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "CMCS4.Data\\Repositories\\GenericRepository.cs",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "CMCS4.Data\\Interfaces\\IGenericRepository.cs",
@@ -136,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CMCS4DbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Context\\CMCS4DbContext.cs",
               "RelativeDocumentMoniker": "CMCS4.Data\\Context\\CMCS4DbContext.cs",
@@ -148,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ClaimApproveDto.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
@@ -160,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ClaimCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
@@ -172,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ClaimStatus.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Enums\\ClaimStatus.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Enums\\ClaimStatus.cs",
@@ -184,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Entities\\Claim.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Entities\\Claim.cs",
@@ -196,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Lecturer.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Entities\\Lecturer.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Entities\\Lecturer.cs",
@@ -208,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.API\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.API\\Class1.cs",
@@ -220,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Services\\Class1.cs",
@@ -232,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Data\\Class1.cs",
@@ -244,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Class1.cs",
