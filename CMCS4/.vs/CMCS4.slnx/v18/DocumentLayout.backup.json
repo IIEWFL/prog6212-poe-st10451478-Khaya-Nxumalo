@@ -7,8 +7,28 @@
       "RelativeMoniker": "D:0:0:{7CB44820-F384-9743-53EF-C1DA9F093D2A}|CMCS4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\interfaces\\iclaimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\interfaces\\iclaimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CBA52B-F9C1-699B-33DA-4CA7FF4FBD11}|CMCS4.Services\\CMCS4.Services.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.services\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CBA52B-F9C1-699B-33DA-4CA7FF4FBD11}|CMCS4.Services\\CMCS4.Services.csproj|solutionrelative:cmcs4.services\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E0FCF0E-60B8-E8D5-DD02-84F47FDD29A7}|CMCS4.API\\CMCS4.API.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.api\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E0FCF0E-60B8-E8D5-DD02-84F47FDD29A7}|CMCS4.API\\CMCS4.API.csproj|solutionrelative:cmcs4.api\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB44820-F384-9743-53EF-C1DA9F093D2A}|CMCS4.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\obj\\debug\\net10.0\\cmcs4.domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB44820-F384-9743-53EF-C1DA9F093D2A}|CMCS4.csproj|solutionrelative:cmcs4.domain\\obj\\debug\\net10.0\\cmcs4.domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\repositories\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\repositories\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|solutionrelative:cmcs4.domain\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CBA52B-F9C1-699B-33DA-4CA7FF4FBD11}|CMCS4.Services\\CMCS4.Services.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.services\\implementations\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +39,28 @@
       "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\context\\cmcs4dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CBA52B-F9C1-699B-33DA-4CA7FF4FBD11}|CMCS4.Services\\CMCS4.Services.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.services\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CBA52B-F9C1-699B-33DA-4CA7FF4FBD11}|CMCS4.Services\\CMCS4.Services.csproj|solutionrelative:cmcs4.services\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\cmcs4.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\cmcs4.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\enums\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|solutionrelative:cmcs4.domain\\enums\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB44820-F384-9743-53EF-C1DA9F093D2A}|CMCS4.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CB44820-F384-9743-53EF-C1DA9F093D2A}|CMCS4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|solutionrelative:cmcs4.domain\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\dtos\\claimapprovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\dtos\\claimcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|solutionrelative:cmcs4.domain\\dtos\\claimcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|solutionrelative:cmcs4.domain\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\enums\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|solutionrelative:cmcs4.domain\\enums\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|solutionrelative:cmcs4.domain\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E0FCF0E-60B8-E8D5-DD02-84F47FDD29A7}|CMCS4.API\\CMCS4.API.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,8 +94,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CMCS4.Domain.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\obj\\Debug\\net10.0\\CMCS4.Domain.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CMCS4.Domain\\obj\\Debug\\net10.0\\CMCS4.Domain.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\obj\\Debug\\net10.0\\CMCS4.Domain.AssemblyInfo.cs",
+              "RelativeToolTip": "CMCS4.Domain\\obj\\Debug\\net10.0\\CMCS4.Domain.AssemblyInfo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:18:22.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Interfaces\\IClaimService.cs",
+              "RelativeDocumentMoniker": "CMCS4.Services\\Interfaces\\IClaimService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Interfaces\\IClaimService.cs",
+              "RelativeToolTip": "CMCS4.Services\\Interfaces\\IClaimService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:58:43.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaimController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.API\\Controllers\\ClaimController.cs",
+              "RelativeDocumentMoniker": "CMCS4.API\\Controllers\\ClaimController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.API\\Controllers\\ClaimController.cs",
+              "RelativeToolTip": "CMCS4.API\\Controllers\\ClaimController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIAwwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:12:13.785Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -84,7 +141,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwBwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T12:26:37.426Z",
               "EditorCaption": ""
@@ -92,127 +149,127 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClaimController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.API\\Controllers\\ClaimController.cs",
-              "RelativeDocumentMoniker": "CMCS4.API\\Controllers\\ClaimController.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.API\\Controllers\\ClaimController.cs",
-              "RelativeToolTip": "CMCS4.API\\Controllers\\ClaimController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Title": "IClaimRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IClaimRepository.cs",
+              "RelativeDocumentMoniker": "CMCS4.Data\\Interfaces\\IClaimRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IClaimRepository.cs",
+              "RelativeToolTip": "CMCS4.Data\\Interfaces\\IClaimRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T12:12:13.785Z",
+              "WhenOpened": "2025-11-21T17:33:44.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClaimService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Implementations\\ClaimService.cs",
-              "RelativeDocumentMoniker": "CMCS4.Services\\Implementations\\ClaimService.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Implementations\\ClaimService.cs",
-              "RelativeToolTip": "CMCS4.Services\\Implementations\\ClaimService.cs",
-              "ViewState": "AgIAAAMAAAAAmZmZmRkWwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:59:33.108Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IClaimService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Interfaces\\IClaimService.cs",
-              "RelativeDocumentMoniker": "CMCS4.Services\\Interfaces\\IClaimService.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Interfaces\\IClaimService.cs",
-              "RelativeToolTip": "CMCS4.Services\\Interfaces\\IClaimService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:58:43.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "CMCS4.Data\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "CMCS4.Data\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAB8AAADAZmZmZqYvwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:50:12.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "CMCS4.Data\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "CMCS4.Data\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:48:36.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CMCS4DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Context\\CMCS4DbContext.cs",
-              "RelativeDocumentMoniker": "CMCS4.Data\\Context\\CMCS4DbContext.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Context\\CMCS4DbContext.cs",
-              "RelativeToolTip": "CMCS4.Data\\Context\\CMCS4DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:46:44.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClaimApproveDto.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
-              "RelativeDocumentMoniker": "CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
-              "RelativeToolTip": "CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:24:41.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClaimCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
-              "RelativeDocumentMoniker": "CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
-              "RelativeToolTip": "CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:23:39.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClaimStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Enums\\ClaimStatus.cs",
-              "RelativeDocumentMoniker": "CMCS4.Domain\\Enums\\ClaimStatus.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Enums\\ClaimStatus.cs",
-              "RelativeToolTip": "CMCS4.Domain\\Enums\\ClaimStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:20:21.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Entities\\Claim.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Entities\\Claim.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Entities\\Claim.cs",
               "RelativeToolTip": "CMCS4.Domain\\Entities\\Claim.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAnwAgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T11:15:02.679Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaimRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\ClaimRepository.cs",
+              "RelativeDocumentMoniker": "CMCS4.Data\\Repositories\\ClaimRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\ClaimRepository.cs",
+              "RelativeToolTip": "CMCS4.Data\\Repositories\\ClaimRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:34:52.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Implementations\\ClaimService.cs",
+              "RelativeDocumentMoniker": "CMCS4.Services\\Implementations\\ClaimService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Implementations\\ClaimService.cs",
+              "RelativeToolTip": "CMCS4.Services\\Implementations\\ClaimService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:59:33.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CMCS4DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Context\\CMCS4DbContext.cs",
+              "RelativeDocumentMoniker": "CMCS4.Data\\Context\\CMCS4DbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Context\\CMCS4DbContext.cs",
+              "RelativeToolTip": "CMCS4.Data\\Context\\CMCS4DbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:46:44.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CMCS4.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "CMCS4.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:50:12.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CMCS4.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\CMCS4.Data.csproj",
+              "RelativeDocumentMoniker": "CMCS4.Data\\CMCS4.Data.csproj",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\CMCS4.Data.csproj",
+              "RelativeToolTip": "CMCS4.Data\\CMCS4.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T17:32:13.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClaimStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Enums\\ClaimStatus.cs",
+              "RelativeDocumentMoniker": "CMCS4.Domain\\Enums\\ClaimStatus.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Enums\\ClaimStatus.cs",
+              "RelativeToolTip": "CMCS4.Domain\\Enums\\ClaimStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:20:21.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T17:25:03.69Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CMCS4.Data\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "CMCS4.Data\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAcAAADI//////80wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:48:36.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Lecturer.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Entities\\Lecturer.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Entities\\Lecturer.cs",
@@ -224,7 +281,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
+              "Title": "ClaimApproveDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
+              "RelativeDocumentMoniker": "CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
+              "RelativeToolTip": "CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:24:41.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClaimCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
+              "RelativeDocumentMoniker": "CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
+              "RelativeToolTip": "CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:23:39.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.API\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.API\\Class1.cs",
@@ -236,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Services\\Class1.cs",
@@ -248,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Data\\Class1.cs",
@@ -260,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Class1.cs",

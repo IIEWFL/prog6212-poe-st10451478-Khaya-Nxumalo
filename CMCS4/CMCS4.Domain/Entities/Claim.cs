@@ -5,19 +5,13 @@ namespace CMCS4.Domain.Entities
     public class Claim
     {
         public int Id { get; set; }
-
         public int LecturerId { get; set; }
-        public Lecturer Lecturer { get; set; }
-
         public decimal HoursWorked { get; set; }
         public decimal HourlyRate { get; set; }
         public decimal TotalPayment { get; set; }
-
-        public ClaimStatus Status { get; set; } = ClaimStatus.Pending;
-
         public string? Notes { get; set; }
-        public string? UploadedDocumentName { get; set; }
-
-        public DateTime SubmittedAt { get; set; } = DateTime.Now;
+        public string? DocumentPath { get; set; }
+        public ClaimStatus Status { get; set; } = ClaimStatus.Pending;
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     }
 }

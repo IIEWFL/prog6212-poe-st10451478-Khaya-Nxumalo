@@ -4,7 +4,6 @@
     {
         Pending = 0,
         Approved = 1,
-        Rejected = 2,
-        ProcessedByHR = 3
+        Rejected = 2
     }
 }

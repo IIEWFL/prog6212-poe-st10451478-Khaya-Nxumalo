@@ -1,5 +1,5 @@
-﻿using CMCS4.Data.Interfaces;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;   
+using CMCS4.Data.Interfaces;
 
 namespace CMCS4.Data.Repositories
 {
@@ -20,7 +20,7 @@ namespace CMCS4.Data.Repositories
 
         public async Task<T> AddAsync(T entity)
         {
-            _ctx.Set<T>().Add(entity);
+            await _ctx.Set<T>().AddAsync(entity);
             await _ctx.SaveChangesAsync();
             return entity;
         }

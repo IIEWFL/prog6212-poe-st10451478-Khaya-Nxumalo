@@ -3,14 +3,15 @@ using CMCS4.Domain.DTOs;
 using CMCS4.Domain.Entities;
 using CMCS4.Domain.Enums;
 using CMCS4.Services.Interfaces;
+using Microsoft.AspNetCore.Http;
 
 namespace CMCS4.Services.Implementations
 {
     public class ClaimService : IClaimService
     {
-        private readonly IGenericRepository<Claim> _claimRepo;
+        private readonly IClaimRepository _claimRepo;
 
-        public ClaimService(IGenericRepository<Claim> claimRepo)
+        public ClaimService(IClaimRepository claimRepo)
         {
             _claimRepo = claimRepo;
         }
@@ -23,32 +24,52 @@ namespace CMCS4.Services.Implementations
                 HoursWorked = dto.HoursWorked,
                 HourlyRate = dto.HourlyRate,
                 TotalPayment = dto.HoursWorked * dto.HourlyRate,
-                Notes = dto.Notes
+                Notes = dto.Notes,
+                Status = ClaimStatus.Pending,
+                CreatedAt = DateTime.UtcNow
             };
 
             return await _claimRepo.AddAsync(claim);
         }
 
-        public async Task<Claim> ApproveClaimAsync(ClaimApproveDto dto)
+        public async Task<Claim> UploadSupportingDocumentAsync(int claimId, IFormFile file)
         {
-            var claim = await _claimRepo.GetAsync(dto.ClaimId)
+            var claim = await _claimRepo.GetAsync(claimId)
                 ?? throw new Exception("Claim not found.");
 
-            claim.Status = dto.Approve ? ClaimStatus.Approved : ClaimStatus.Rejected;
+            var path = Path.Combine("Uploads", $"{Guid.NewGuid()}_{file.FileName}");
+            Directory.CreateDirectory("Uploads");
+
+            using (var stream = new FileStream(path, FileMode.Create))
+            {
+                await file.CopyToAsync(stream);
+            }
+
+            claim.DocumentPath = path;
 
             return await _claimRepo.UpdateAsync(claim);
         }
 
-        public async Task<List<Claim>> GetPendingClaimsAsync()
+        public async Task UpdateClaimStatusAsync(int claimId, ClaimStatus status)
         {
-            var all = await _claimRepo.GetAllAsync();
-            return all.Where(c => c.Status == ClaimStatus.Pending).ToList();
+            var claim = await _claimRepo.GetAsync(claimId)
+                ?? throw new Exception("Claim not found.");
+
+            claim.Status = status;
+            await _claimRepo.UpdateAsync(claim);
         }
 
-        public async Task<List<Claim>> GetLecturerClaimsAsync(int lecturerId)
+        public async Task<List<Claim>> GetPendingClaimsAsync()
         {
-            var all = await _claimRepo.GetAllAsync();
-            return all.Where(c => c.LecturerId == lecturerId).ToList();
+            return await _claimRepo.GetPendingClaimsAsync();
+        }
+
+        public async Task<List<Claim>> GetClaimsForLecturerAsync()
+        {
+            /// In real world: extract lecturerId from JWT.
+            int lecturerId = 1;
+
+            return await _claimRepo.GetClaimsByLecturerAsync(lecturerId);
         }
     }
 }
