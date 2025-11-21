@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CMCS4.Data\CMCS4.Data.csproj" />
+    <ProjectReference Include="..\CMCS4.Domain\CMCS4.Domain.csproj" />
+    <ProjectReference Include="..\CMCS4.Services\CMCS4.Services.csproj" />
+  </ItemGroup>
+
+</Project>

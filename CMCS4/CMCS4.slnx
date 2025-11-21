@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CMCS4.API/CMCS4.API.csproj" />
+  <Project Path="CMCS4.csproj" />
+  <Project Path="CMCS4.Data/CMCS4.Data.csproj" />
+  <Project Path="CMCS4.Domain/CMCS4.Domain.csproj" />
+  <Project Path="CMCS4.Services/CMCS4.Services.csproj" />
+</Solution>
