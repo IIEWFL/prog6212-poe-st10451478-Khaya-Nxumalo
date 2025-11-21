@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\context\\cmcs4dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\context\\cmcs4dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F8384-C899-3307-2D15-7BF5DF0F72F0}|CMCS4.Data\\CMCS4.Data.csproj|solutionrelative:cmcs4.data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|c:\\users\\dell\\onedrive\\documents\\prog6212-poe-st10451478-khaya-nxumalo\\cmcs4\\cmcs4.domain\\dtos\\claimapprovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{143CE616-6DB1-188F-5C3D-0E49314531F4}|CMCS4.Domain\\CMCS4.Domain.csproj|solutionrelative:cmcs4.domain\\dtos\\claimapprovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,6 +63,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CMCS4.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "CMCS4.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:50:12.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CMCS4.Data\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "CMCS4.Data\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:48:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMCS4DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Context\\CMCS4DbContext.cs",
+              "RelativeDocumentMoniker": "CMCS4.Data\\Context\\CMCS4DbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Context\\CMCS4DbContext.cs",
+              "RelativeToolTip": "CMCS4.Data\\Context\\CMCS4DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:46:44.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ClaimApproveDto.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\DTOs\\ClaimApproveDto.cs",
@@ -63,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ClaimCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\DTOs\\ClaimCreateDto.cs",
@@ -76,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ClaimStatus.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Enums\\ClaimStatus.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Enums\\ClaimStatus.cs",
@@ -89,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Entities\\Claim.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Entities\\Claim.cs",
@@ -102,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Lecturer.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Entities\\Lecturer.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Entities\\Lecturer.cs",
@@ -115,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.API\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.API\\Class1.cs",
@@ -128,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Services\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Services\\Class1.cs",
@@ -136,11 +187,12 @@
               "RelativeToolTip": "CMCS4.Services\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T10:55:26.867Z"
+              "WhenOpened": "2025-11-21T10:55:26.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Data\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Data\\Class1.cs",
@@ -148,11 +200,12 @@
               "RelativeToolTip": "CMCS4.Data\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T10:54:11.354Z"
+              "WhenOpened": "2025-11-21T10:54:11.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\prog6212-poe-st10451478-Khaya-Nxumalo\\CMCS4\\CMCS4.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "CMCS4.Domain\\Class1.cs",
@@ -160,7 +213,8 @@
               "RelativeToolTip": "CMCS4.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T10:52:41.755Z"
+              "WhenOpened": "2025-11-21T10:52:41.755Z",
+              "EditorCaption": ""
             }
           ]
         }
